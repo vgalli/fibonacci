@@ -1,0 +1,1 @@
+java -cp build/fibonacci-app-1.0-SNAPSHOT.jar com.vgalli.Fibonacci %1
